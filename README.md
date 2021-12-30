@@ -1,4 +1,6 @@
-# kiOS
+<img src="./screenshots/logo.png" width="200">
+<br>
+
 A simple operating system that runs on the web, with a modern and elegant interface.
 
 ## Selfhosting
